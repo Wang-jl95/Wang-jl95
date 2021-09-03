@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wang-jl95
+- 👀 I’m interested in JavaScript/Front-end
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me :553815688@QQ.com
